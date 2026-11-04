@@ -1,6 +1,7 @@
 # Associate Professor (Statistics/Machine Learning)
 Bayesian Inference, Time Series, Information Theory
-[Blog](https://dfschmidt80.github.io/home/blog/)
+
+You can find my [Blog](https://dfschmidt80.github.io/home/blog/) here
 
 ## Education
 - Bachelor of Digital Systems (Hons), Monash University, 2002
