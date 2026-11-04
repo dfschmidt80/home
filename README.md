@@ -6,7 +6,7 @@ You can find my [Blog](https://dfschmidt80.github.io/home/blog/) here
 ## Education
 - Bachelor of Digital Systems (Hons), Monash University, 2002
 - PhD (Computer Science), Monash University, 2008
-  - [*Minimum Message Length Inference of Autoregressive Moving Average Models*](/assets/talks/Schmidt PhD Thesis (Retypeset))
+  - [*Minimum Message Length Inference of Autoregressive Moving Average Models*](/assets/Schmidt PhD Thesis (Retypeset))
 
 ## Packages
 #### Statistics/Regression
