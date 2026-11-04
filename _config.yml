@@ -2,3 +2,5 @@ title: Daniel Schmidt
 #show_downloads: true
 logo: /assets/img/daniel_head.jpg
 theme: jekyll-theme-minimal
+url: "https://dfschmidt80.github.io"
+baseurl: "/home"
