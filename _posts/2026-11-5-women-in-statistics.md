@@ -1,8 +1,14 @@
+---
+layout: post
+title: "Women In Statistics"
+author: Daniel Schmidt
+---
+
 A incomplete list of influential women in statistics.
 
 <!--more-->
 
-# (Some) Women who shaped statistics: an incomplete (reading) list
+# (Some) Women who shaped statistics: an incomplete list
 
 I recently suggested to my postdoc, [Dr.Sherilyn (Xueying) Long](https://github.com/xueyinglong), that she might find Dennis Lindley’s [“Bayesian thoughts”](https://doi.org/10.1111/j.1740-9713.2004.027.x) an interesting read (as he is a professional inspiration for myself). She did so, but then asked an important follow-up question: what material from female statisticians could I recommend for her to read? There are naturally many female statisticians who have made profound contributions to our field, so my list is influenced by my own personal biases and experiences. 
 
@@ -29,7 +35,7 @@ Sara van de Geer’s [*Empirical Processes in M-Estimation*](https://assets.camb
 Lucien Le Cam and Grace Lo Yang’s [*Asymptotics in Statistics: Some Basic Concepts*](https://doi.org/10.1007/978-1-4612-1166-2) has one of my favourite subtitles; “Basic” here meaning these concepts form the basis for much asymptotic statistics, rather than ``elementary'' :). One probably realises this quite quickly when one finds themselves comparing statistical experiments and trying to get comfortable with concepts like contiguity. I couldn’t find a published interview with Yang about her own career, but she did interview her coauthor for *Statistical Science* in [“A Conversation with Lucien Le Cam”](https://doi.org/10.1214/ss/1009212249).
 
 
-## Nancy Reid and what profiling leaves behind
+## Nancy Reid and profiling
 
 Nancy Reid started out in computer science at Waterlo, then then obtained a master’s at UBC in applied mathematics. In [her conversation with Radu Craiu and Grace Yi](https://utstat.utoronto.ca/craiu/Papers/nancy_int.pdf), she recalls that her supervisor, Jim Zidek, handed her a deck of punched cards for fitting a Cox proportional hazards model and left her to see what she could learn from a set of coronary bypass data. Zidek encouraged her to apply to Stanford, where she completed her PhD in 1979. She then spent a year visiting David Cox at Imperial College, returned to UBC as a faculty member and moved to Toronto in 1986. She later chaired Toronto’s statistics department, directed the Canadian Statistical Sciences Institute and received the inaugural David R. Cox Foundations of Statistics Award in 2023. [Reid also talks about that part of her career in a CANSSI interview.](https://canssi.ca/speaking-about-statistics-a-conversation-with-nancy-reid/)
 
@@ -37,11 +43,11 @@ The [1987 paper with Cox on parameter orthogonality](https://academic.oup.com/jr
 
 One paper I discovered while researching this list is Reid’s [*Asymptotics and the Theory of Inference*](https://utstat.toronto.edu/reid/research/AOS201.pdf), which is based on her Wald Memorial Lectures and published in the *Annals of Statistics* in 2003. This looks like a wonderfully deep exposition on inference. The paper appears to use higher-order approximations to ask what information the data contain, and how different inferential procedures are able to extract this information. She brings likelihood, conditioning and Bayesian inference into the same discussion, including when Bayesian and frequentist tail probabilities agree. The [case studies in her book, *Applied Asymptotics*](https://www.cambridge.org/core/books/applied-asymptotics/73F7B67166213303C976456A2C6AA95F) show how that kind of refinement plays out in practice.
 
-## Elizabeth Scott, in her own words
+## Elizabeth Scott and nusiance parameters
 
 Elizabeth Scott has a particular appeal for me because of the classic [1948 paper she wrote with Jerzy Neyman](https://doi.org/10.2307/1914288). Their incidental parameter example shows that maximum likelihood can give an inconsistent estimate of a common variance when each new group adds a nuisance mean and there are only two observations per group. It’s an exceptionally simple example of how the way we handle nuisance parameters can change what we actually end up learning.
 
-Scott brought the same attention to what an analysis can reveal or conceal to her studies of academic pay. She pointed out that controlling for rank could hide some of the salary disparity if women had already faced discrimination in promotion. Amanda Golbeck tells that story in [*Significance*](https://academic.oup.com/jrssig/article/14/6/38/7029369). Scott herself speaks about barriers to women in astronomy and life at Berkeley in [Suzanne Riess’s oral history interview](https://digicoll.lib.berkeley.edu/record/217514?v=pdf), published in the Bancroft Library’s history of the Women’s Faculty Club.
+Scott brought the same level of attention to what an analysis can reveal, or conceal, to her studies of academic pay. She pointed out that controlling for rank could hide some of the salary disparity, if women had already faced discrimination in promotion. Amanda Golbeck tells that story in [*Significance*](https://academic.oup.com/jrssig/article/14/6/38/7029369). Scott herself speaks about barriers to women in astronomy, and general life at Berkeley, in [Suzanne Riess’s oral history interview](https://digicoll.lib.berkeley.edu/record/217514?v=pdf), published in the Bancroft Library’s history of the Women’s Faculty Club.
 
 ## Ingrid Daubechies and wavelets
 
