@@ -16,7 +16,7 @@ With that in mind, Grace Wahba’s spline book came to mind first, followed by S
 
 ## Grace Wahba and the roots of kernel learning
 
-I would pair Wahba’s classic book [*Spline Models for Observational Data*](https://doi.org/10.1137/1.9781611970128) with [“A Conversation with Grace Wahba”](https://doi.org/10.1214/19-STS734) in *Statistical Science*. Her interview gives a sense of how she came to the mathematics, including learning about reproducing kernel Hilbert spaces (RKHSs) from Emanuel Parzen.
+I would pair Wahba’s classic book [*Spline Models for Observational Data*](https://doi.org/10.1137/1.9781611970128) with [“A Conversation with Grace Wahba”](https://doi.org/10.1214/19-STS734) in *Statistical Science*. Her interview gives a sense of how she came to the mathematics, including being introduced to reproducing kernel Hilbert spaces (RKHSs) from Emanuel Parzen.
 
 In [a 1970 paper](https://doi.org/10.1214/aoms/1177697089), Wahba and George Kimeldorf demonstrated that a smoothing spline can arise as a Bayesian estimate under a suitable stochastic process prior. In [their 1971 paper](https://doi.org/10.1016/0022-247X(71)90184-3), they then showed how to solve a class of smoothing problems in an RKHS. The striking feature is that you can search over an infinite-dimensional function space and still express the answer using a finite span determined by the observations, which is of course, the idea behind the representer theorem.
 
