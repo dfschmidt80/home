@@ -8,7 +8,7 @@ A incomplete list of influential women in statistics.
 
 <!--more-->
 
-## (Some) Women who shaped statistics: an incomplete list
+## (Some) women who shaped statistics: an incomplete list
 
 I recently suggested to my postdoc, [Dr.Sherilyn (Xueying) Long](https://github.com/xueyinglong), that she might find Dennis Lindley’s [“Bayesian thoughts”](https://doi.org/10.1111/j.1740-9713.2004.027.x) an interesting read (as he is a professional inspiration for myself). She did so, but then asked an important follow-up question: what material from female statisticians could I recommend for her to read? There are naturally many female statisticians who have made profound contributions to our field, so my list is influenced by my own personal biases and experiences. 
 
