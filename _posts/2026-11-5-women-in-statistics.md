@@ -1,10 +1,10 @@
-A short list of influential women in statistics.
+A incomplete list of influential women in statistics.
 
 <!--more-->
 
-# (Some) Women who shaped statistics: a reading list
+# (Some) Women who shaped statistics: an incomplete (reading) list
 
-I recently suggested to my postdoc, Dr. Sherilyn (Xueying) Long, that she might find Dennis Lindley’s [“Bayesian thoughts”](https://doi.org/10.1111/j.1740-9713.2004.027.x) an interesting read (as he is a professional inspiration for myself). She did so, but then asked an important follow-up question: what material from female statisticians could I recommend for her to read? There are naturally many female statisticians who have made profound contributions to our field, so my list is influenced by my own personal biases and experiences. 
+I recently suggested to my postdoc, [Dr.Sherilyn (Xueying) Long](https://github.com/xueyinglong), that she might find Dennis Lindley’s [“Bayesian thoughts”](https://doi.org/10.1111/j.1740-9713.2004.027.x) an interesting read (as he is a professional inspiration for myself). She did so, but then asked an important follow-up question: what material from female statisticians could I recommend for her to read? There are naturally many female statisticians who have made profound contributions to our field, so my list is influenced by my own personal biases and experiences. 
 
 With that in mind, Grace Wahba’s spline book came to mind first, followed by Sara van de Geer’s book on empirical processes and Grace Lo Yang’s book with Lucien Le Cam on asymptotics. As it was an interview article that had prompted the question, I also started looking for conversations as well. This is of course important because it is great to have professional role-models. Here are a few suggestions for people interested in reading about women who made fundamental contributions to statistics specifically, and by extension, machine learning and data science in general.
 
