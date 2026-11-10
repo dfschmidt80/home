@@ -61,4 +61,4 @@ Finally, I’d also recommend [Louise Ryan’s conversation with Nan Laird](http
 
 ## And beyond ...
 
-This is just a smattering of women who have contributed to statistics, one way or another, other the years. Those who I have omitted should not be taken to be uninteresting, or unimportant -- rather the list I have pu together is a product of my own interests as much as anything else! If you have any suggestions of people I should include on this list, leave a comment!
+This is just a smattering of women who have contributed to statistics, one way or another, other the years. Those who I have omitted should not be taken to be uninteresting, or unimportant -- rather the list I have pu together is a product of my own interests as much as anything else! If you have any suggestions of people I should include on this list, drop me an email!
